@@ -1,0 +1,15 @@
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.pdb
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Form1.resources
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.Properties.Resources.resources
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csproj.GenerateResource.Cache
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+c:\users\msk319882\documents\visual studio 2015\Projects\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.csprojResolveAssemblyReference.cache
+G:\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+G:\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+G:\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
+C:\Users\msk319882\Desktop\新しいフォルダー\新しいフォルダー (2)\新しいフォルダー\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\bin\Debug\WindowsFormsApplication7.exe.config
+C:\Users\msk319882\Desktop\新しいフォルダー\新しいフォルダー (2)\新しいフォルダー\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.exe
+C:\Users\msk319882\Desktop\新しいフォルダー\新しいフォルダー (2)\新しいフォルダー\ROBOT_ARM_RS232C_beta_v1\WindowsFormsApplication7\obj\Debug\WindowsFormsApplication7.pdb
